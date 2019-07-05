@@ -6,5 +6,6 @@ public class Hello {
         System.out.println(myfirstnumber);
         System.out.println("Added this line in the remote repo");
         System.out.println("Added this line in local after pull");
+         System.out.println("Added this line2 in the remote after PUSH");
     }
 }
